@@ -18,7 +18,7 @@ This Web App implements a linear regression model trained on Fifa 21 stats datas
 
 ## Python Version
 
-This project uses Python 3.9. You can check your Python version by running `python --version` in your terminal.
+This project uses Python 3.11. You can check your Python version by running `python --version` in your terminal.
 
 ## Colab Notebook
 
@@ -30,4 +30,4 @@ The model can be accessed from [drive](https://drive.google.com/file/d/1nngPnzdk
 ## Usage
 
 Enter the desired stats by either sliding or entering the numeric values in the case of the money based attributes
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
